@@ -19,6 +19,7 @@ I did it without code using unity first (for learning).
 Then I did the required tasks using C# code.
 
 After that, I worked on the extra credit tasks and learned about buttons sliders and toggles(mainly the UI aspect for the scene)
+I'm using just one button for resetting the scene AND to randomize the objects. 
 
 
 
