@@ -17,10 +17,9 @@ public class UIManager : MonoBehaviour
     {
         rigidbodies = FindObjectsOfType<Rigidbody>();
 
-        // Set initial gravity strength
+
         SetGravity();
 
-        // Add listeners to UI elements
         gravityToggle.onValueChanged.AddListener(ToggleGravity);
         gravitySlider.onValueChanged.AddListener(SetGravityStrength);
         resetButton.onClick.AddListener(ResetScene);
