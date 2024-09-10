@@ -1,7 +1,10 @@
 ReadME
 
 Paths to the two main files to be looked at: 
+
 project-sarthak-unity-two/Assets/Scenes/scene1.cs
+
+
 project-sarthak-unity-two/Assets/UIManager.cs
 
 I created the scene with the objects first last week but did not upload to github(forgot).
